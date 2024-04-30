@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Backend:<br><br>Python (Expert) with experience in Django for building robust web applications.<br>Familiarity with Odoo framework for business management solutions.<br>Frontend:<br><br>JavaScript (Expert) with a focus on ReactJS for building dynamic and user-friendly interfaces.<br>Always Learning:<br><br>I'm constantly seeking new challenges and expanding my knowledge base.
+Machine Learning:<br>Quick learner with a solid grasp of machine learning algorithms and techniques, eager to leverage this knowledge for impactful projects.<br><br>Backend:<br>Python with experience in Django for building robust web applications.<br>Familiarity with Odoo framework for business management solutions.<br><br>Frontend:<br>JavaScript with a focus on ReactJS for building dynamic and user-friendly interfaces.<br><br>Always Learning:<br>I'm constantly seeking new challenges and expanding my knowledge base.
 
 
 ## 🌐 Socials:
